@@ -1,0 +1,11 @@
+{
+  "name": "reload-sincjs",
+  "version": "1.0.0",
+  "description": "reload-sincjs", 
+  "scripts": {   
+    "sss": "browser-sync start --server --files '*.html,*.css'"   
+  }},
+  "author": {
+    "name": "robberr"
+  }
+}
